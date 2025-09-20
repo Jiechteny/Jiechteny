@@ -1,5 +1,6 @@
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Software+Development+Engineer;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Jiech+Jamual;Software+Development+Engineer)](https://git.io/typing-svg)
+
 
 ---
 
