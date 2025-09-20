@@ -1,5 +1,13 @@
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Jiech+Jamual;Software+Development+Engineer)](https://git.io/typing-svg)
+<!-- Animated Typing Banner with Dark/Light Mode -->
+<p align="center">
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Jiech+Jamual;Software+Development+Engineer">
+    <!-- Light Mode -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Jiech+Jamual;Software+Development+Engineer" alt="Typing SVG" />
+  </picture>
+</p>
+
 
 
 ---
